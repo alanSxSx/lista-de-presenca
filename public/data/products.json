@@ -1,0 +1,52 @@
+{
+  "data": [
+    {
+      "id": 6,
+      "name": "Alan Barbosa",
+      "cpf": "129.641.886-37",
+      "setor": {
+        "id": 1,
+        "name": "Tecnologia da Informação",
+        "code": "T.I"
+      }
+    },
+    {
+      "id": 8,
+      "name": "Alan",
+      "cpf": "789.456.447.96",
+      "setor": {
+        "id": 3,
+        "name": "Moldação",
+        "code": "MO"
+      },
+      "senha": "123456"
+    }
+  ],
+  "setor": [
+    {
+      "id": 1,
+      "name": "Tecnologia da Informação",
+      "code": "T.I"
+    },
+    {
+      "id": 2,
+      "name": "Recursos Humanos",
+      "code": "RH"
+    },
+    {
+      "id": 3,
+      "name": "Moldação",
+      "code": "MO"
+    },
+    {
+      "id": 4,
+      "name": "Fusão",
+      "code": "FU"
+    },
+    {
+      "id": 5,
+      "name": "Acabamento",
+      "code": "ATO"
+    }
+  ]
+}
